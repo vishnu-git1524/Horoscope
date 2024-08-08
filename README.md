@@ -60,7 +60,7 @@ The application utilizes an API route (/api/horoscope) to fetch horoscope data f
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/thesushilsharma/Zodiac.git
+   git clone https://github.com/vishnu-git1524/Horoscope.git
    ```
 
 2. Install dependencies:
@@ -69,7 +69,7 @@ The application utilizes an API route (/api/horoscope) to fetch horoscope data f
     - [moment](https://momentjs.com/): Parse, validate, manipulate, and display dates and times in JavaScript
     
     ```
-    cd Zodiac
+    cd Horoscope
     npm i
     ```
 
@@ -87,9 +87,6 @@ You can deploy this API to a production server using a platform like Vercel, Net
 
 Feel free to fork the repository and submit pull requests with your improvements or bug fixes. We welcome contributions from the community!
 
-## License
-
-This project is licensed under the MIT License.  See the [LICENSE](https://github.com/thesushilsharma/Zodiac/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 - This project is for educational purposes only.
